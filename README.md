@@ -69,7 +69,6 @@ A Microcontroller made in Xlinx and MPLAB. I convert a mips that I have made pre
 ### 🎯 Goals for 2025
 - Build an AI-powered recommendation system  
 - Contribute to open-source .NET and Python projects  
-- 
 - Get an internship in software development or Machine Learning
 
 ---
