@@ -46,7 +46,7 @@ A Microcontroller made in Xlinx and MPLAB. I convert a mips that I have made pre
 ---
 
 ### 🏆 Achievements & Certifications
-- ✅ Microsoft Certified: OCI Foundation 
+- ✅ Oracle Certified: OCI Foundation 
 
 
 ---
