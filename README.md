@@ -71,11 +71,6 @@ A Microcontroller made in Xlinx and MPLAB. I convert a mips that I have made pre
 - Contribute to open-source .NET and Python projects  
 - Get an internship in software development or Machine Learning
 
----
 
-### ✍️ Quote of the Day
-> "The best way to predict the future is to invent it." — Alan Kay
-
----
 
 ⭐ **If you like my work, consider giving a star to my repositories!**
